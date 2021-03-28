@@ -1,3 +1,4 @@
+katz_deli = []
 # Write your code here.
 def line(katz_deli, name)
 
